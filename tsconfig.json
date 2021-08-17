@@ -6,7 +6,7 @@
     "sourceMap": true,
     "outDir": "./dist",
     "moduleResolution": "node",
-
+    "types":["jest"],
     "removeComments": true,
     "strict": true,
     "noImplicitAny": true,
